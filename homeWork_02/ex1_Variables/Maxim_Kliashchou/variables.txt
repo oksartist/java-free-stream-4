@@ -11,7 +11,7 @@
 Наименьшее число - minNumber
 Левая граница диапазона чисел - leftBorderOfNumbers
 Правая граница диапазона чисел - rightBorderOfNumbers
-Загаданное пользователем число - 
+Загаданное пользователем число - userSecretNumber
 Вариант ответа - possibleAnswer
 Банковский счет - bankAccount
 Банковский баланс - bankAccountBalance
