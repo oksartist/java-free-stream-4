@@ -1,4 +1,4 @@
-public class MathOperationDemo {
+public class MathOperationsDemo {
     public static void main(String[] args) {
         int number1 = 40, number2 = 12;
 
